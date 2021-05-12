@@ -2,6 +2,6 @@ package com.kh.teamwork;
 
 public class WonClass {
 	public void hello() {
-		System.out.println("hello teamwork!");
+		System.out.println("foooooooooooo!");
 	}
 }
