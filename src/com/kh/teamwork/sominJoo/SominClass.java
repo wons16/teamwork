@@ -1,7 +1,7 @@
 package com.kh.teamwork.sominJoo;
 
 public class SominClass {
-	public void bar() {
+	public void me() {
 		System.out.println("me");
 	}
 
